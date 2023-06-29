@@ -1,0 +1,5 @@
+﻿  BaitapPhanSo.cpp
+  PhanSo.cpp
+  Generating Code...
+D:\HOC_CODE_C_C++\OOP\BaitapPhanSo\BaitapPhanSo\PhanSo.cpp(8): warning C4172: returning address of local variable or temporary: tuSo
+  BaitapPhanSo.vcxproj -> D:\HOC_CODE_C_C++\OOP\BaitapPhanSo\x64\Debug\BaitapPhanSo.exe
